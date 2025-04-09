@@ -12,6 +12,9 @@ Based in the UK, I am a Junior Data Engineer and I mainly use Python. I am very 
 - Mini storage cleaning cycle, cleans unnecessary data like unsubscribed products from the database to save compute power.
   
 ---
+Sorry, I'm still working on this!
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
