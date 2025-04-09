@@ -4,6 +4,7 @@ Based in the UK, I am a Junior Data Engineer and I mainly use Python. I am very 
 ## 🚀 Projects
 ### 1. [📉 PriceSlashers - Sales Tracker](https://github.com/jk-george/PriceSlashTrack)
 **Tech Stack:** Python, AWS, Terraform, Docker, PostgreSQL
+
 **Description:** A sales tracker that notifies users when the Steam Games that they are subscribed to, are on discounts at set prices.
 
 **Key Highlights:**
