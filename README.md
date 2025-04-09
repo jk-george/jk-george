@@ -1,12 +1,17 @@
 ## 👋 Hi, I'm Jeevan
 Based in the UK, I am a Junior Data Engineer and I mainly use Python. I am very interested to learn new languages and practices!
 
-## Projects
+## 🚀 Projects
 ### 1. [📉 PriceSlashers - Sales Tracker](https://github.com/jk-george/PriceSlashTrack)
+**Tech Stack:** Python, AWS, Terraform, Docker, PostgreSQL
+**Description:** A sales tracker that notifies users when the Steam Games that they are subscribed to, are on discounts at set prices.
 
-
-Here are some ideas to get you started:
-
+**Key Highlights:**
+- Automated pipeline from start to finish. Storage solutions in RDS for storing user information and subscribed products.
+- Automated alerts via e-mail, levereging AWS Simple Email Services (SES).
+- Mini storage cleaning cycle, cleans unnecessary data like unsubscribed products from the database to save compute power.
+  
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
