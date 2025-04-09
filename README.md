@@ -1,7 +1,9 @@
-## Hi there 👋
+## 👋 Hi, I'm Jeevan
+Based in the UK, I am a Junior Data Engineer and I mainly use Python. I am very interested to learn new languages and practices!
 
-<!--
-**jk-george/jk-george** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+### 1. [📉 PriceSlashers - Sales Tracker](https://github.com/jk-george/PriceSlashTrack)
+
 
 Here are some ideas to get you started:
 
