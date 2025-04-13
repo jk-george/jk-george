@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jeevan
 Based in the UK, I am a Junior Data Engineer and I really enjoy solving problems especially when they are in or related to the real world. I mainly use Python but I am very interested in learning many more languages and technologies!
 
-## 🚀 Projects
+## 🚀 Some Projects!
 ### 1. [📉 PriceSlashers - Sales Tracker](https://github.com/jk-george/PriceSlashTrack)
 **Tech Stack:** Python, AWS, Terraform, Docker, PostgreSQL
 
